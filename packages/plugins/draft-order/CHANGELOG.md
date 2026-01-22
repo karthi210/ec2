@@ -1,5 +1,22 @@
 # @medusajs/draft-order
 
+## 2.13.0
+
+### Minor Changes
+
+- [`a31e72c31c5235240cead2d04e39e5927688eec7`](https://github.com/medusajs/medusa/commit/a31e72c31c5235240cead2d04e39e5927688eec7) Thanks [@olivermrbl](https://github.com/olivermrbl)! - chore: Minor bump
+
+### Patch Changes
+
+- Updated dependencies [[`a31e72c31c5235240cead2d04e39e5927688eec7`](https://github.com/medusajs/medusa/commit/a31e72c31c5235240cead2d04e39e5927688eec7)]:
+  - @medusajs/admin-sdk@2.13.0
+  - @medusajs/cli@2.13.0
+  - @medusajs/framework@2.13.0
+  - @medusajs/js-sdk@2.13.0
+  - @medusajs/icons@2.13.0
+  - @medusajs/ui@4.1.0
+  - @medusajs/test-utils@2.13.0
+
 ## 2.12.6
 
 ### Patch Changes

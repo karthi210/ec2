@@ -1,5 +1,67 @@
 # Change Log
 
+## 2.13.0
+
+### Minor Changes
+
+- [`a31e72c31c5235240cead2d04e39e5927688eec7`](https://github.com/medusajs/medusa/commit/a31e72c31c5235240cead2d04e39e5927688eec7) Thanks [@olivermrbl](https://github.com/olivermrbl)! - chore: Minor bump
+
+### Patch Changes
+
+- Updated dependencies [[`a31e72c31c5235240cead2d04e39e5927688eec7`](https://github.com/medusajs/medusa/commit/a31e72c31c5235240cead2d04e39e5927688eec7), [`4a33c44f79808a3b5b907e2b053427d2ba6d7015`](https://github.com/medusajs/medusa/commit/4a33c44f79808a3b5b907e2b053427d2ba6d7015)]:
+  - @medusajs/admin-bundler@2.13.0
+  - @medusajs/core-flows@2.13.0
+  - @medusajs/framework@2.13.0
+  - @medusajs/telemetry@2.13.0
+  - @medusajs/analytics@2.13.0
+  - @medusajs/api-key@2.13.0
+  - @medusajs/auth@2.13.0
+  - @medusajs/cache-inmemory@2.13.0
+  - @medusajs/cache-redis@2.13.0
+  - @medusajs/caching@2.13.0
+  - @medusajs/cart@2.13.0
+  - @medusajs/currency@2.13.0
+  - @medusajs/customer@2.13.0
+  - @medusajs/event-bus-local@2.13.0
+  - @medusajs/event-bus-redis@2.13.0
+  - @medusajs/file@2.13.0
+  - @medusajs/fulfillment@2.13.0
+  - @medusajs/index@2.13.0
+  - @medusajs/inventory@2.13.0
+  - @medusajs/link-modules@2.13.0
+  - @medusajs/locking@2.13.0
+  - @medusajs/notification@2.13.0
+  - @medusajs/order@2.13.0
+  - @medusajs/payment@2.13.0
+  - @medusajs/pricing@2.13.0
+  - @medusajs/product@2.13.0
+  - @medusajs/promotion@2.13.0
+  - @medusajs/analytics-local@2.13.0
+  - @medusajs/analytics-posthog@2.13.0
+  - @medusajs/auth-emailpass@2.13.0
+  - @medusajs/auth-github@2.13.0
+  - @medusajs/auth-google@2.13.0
+  - @medusajs/caching-redis@2.13.0
+  - @medusajs/file-local@2.13.0
+  - @medusajs/file-s3@2.13.0
+  - @medusajs/fulfillment-manual@2.13.0
+  - @medusajs/locking-postgres@2.13.0
+  - @medusajs/locking-redis@2.13.0
+  - @medusajs/notification-local@2.13.0
+  - @medusajs/notification-sendgrid@2.13.0
+  - @medusajs/payment-stripe@2.13.0
+  - @medusajs/region@2.13.0
+  - @medusajs/sales-channel@2.13.0
+  - @medusajs/settings@2.13.0
+  - @medusajs/stock-location@2.13.0
+  - @medusajs/store@2.13.0
+  - @medusajs/tax@2.13.0
+  - @medusajs/translation@2.13.0
+  - @medusajs/user@2.13.0
+  - @medusajs/workflow-engine-inmemory@2.13.0
+  - @medusajs/workflow-engine-redis@2.13.0
+  - @medusajs/draft-order@2.13.0
+
 ## 2.12.6
 
 ### Patch Changes
